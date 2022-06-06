@@ -7,10 +7,7 @@
 - [Front end git](https://github.com/alyssariah/project3-frontend)
 ### Wireframes and Architecture
 - Wireframes: 
-     -[Landing page and create new](https://res.cloudinary.com/mzprizm/image/upload/v1587159783/Screen_Shot_2020-04-17_at_2.41.10_PM_rfu3r2.png)
-     - [Schema and updating](https://res.cloudinary.com/mzprizm/image/upload/v1587159783/Screen_Shot_2020-04-17_at_2.41.29_PM_qhxewr.png)
-     - [During the presentation](https://res.cloudinary.com/mzprizm/image/upload/v1587159783/Screen_Shot_2020-04-17_at_2.41.21_PM_c6timx.png)
-- Architecture: [Google Drawing](https://docs.google.com/drawings/d/1QnfQrfsA5B_Z0-H4OkIHzYKonrOfJGI1wSDYNjucwVM/edit)
+     -[Landing page and create new](https://imgur.com/a/qSWSDqI)
 ### Time/Priority Matrix
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
