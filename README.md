@@ -13,12 +13,12 @@
 | --- | :---: |  :---: | :---: | :---: |
 | Git management | H | 5hrs |
 | Q&A and bug fixes | H | 2hrs |
-| Connection | H | 1hr |
-| Express  | H | 1hr |
-| Routes | H | 1hrs |
-| Controllers | H | 4hrs |
-| Seed | H | 5hrs |
-| Deployment | H | 1hr |
+| Connection | H | 1hr | .2hr |
+| Express  | H | 1hr | .2hr |
+| Routes | H | 1hrs | .5hr |
+| Controllers | H | 4hrs | .5hr |
+| Seed | H | 5hrs |.5hr|
+| Deployment | H | 4hrs |
 | Install and set up react router | H | 0.5hrs |
 | Links & Routes | H | 2hrs |
 | Header| H | 2hrs |
