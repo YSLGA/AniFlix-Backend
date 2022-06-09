@@ -18,7 +18,3 @@ app.set("port", process.env.PORT || 8080);
 app.listen(app.get("port"), () => {
     console.log(`✅ PORT: ${app.get("port")} 🌟`);
 });
-
-app.listen(PORT, () => {
-    console.log("we are live");
-});
